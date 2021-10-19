@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "team profile gnerator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PassionPhoenix/Team-Profile-Generator.git"
+  },
+  "author": "Daniel Vera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PassionPhoenix/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/PassionPhoenix/Team-Profile-Generator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0"
+  }
+}
